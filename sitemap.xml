@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/choose.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/uk-vs-us.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/brand/alden.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/brand/allen-edmonds.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/brand/crockett-jones.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/brand/churchs.html</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/brand/john-lobb.html</loc>
+  </url>
+
+</urlset>
