@@ -150,10 +150,6 @@ footer {
   display: block;
 }
 
-@media (max-width: 600px){
-  .heroimg{ height: 220px; }
-}
-
 .herooverlay{
   position: absolute;
   inset: 0;
@@ -265,5 +261,60 @@ footer {
   padding: 0 2px; /* 数字周りの視認性UP */
 }
 
+.size-table, .brand-table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 12px;
+}
 
+.size-table th, .size-table td,
+.brand-table th, .brand-table td{
+  border: 1px solid #444;
+  padding: 10px;
+  vertical-align: top;
+}
 
+.size-table thead th,
+.brand-table thead th{
+  background: rgba(255,255,255,0.06);
+}
+
+.note{
+  opacity: 0.85;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 600px){
+
+  .size-table th, .size-table td,
+  .brand-table th, .brand-table td{
+    padding: 8px;
+    font-size: 0.9rem;
+  }
+
+  .heroimg{
+    height: 220px;
+  }
+
+}
+
+.fold{
+  margin: 18px 0 26px;
+  padding: 14px 14px;
+  border: 1px solid rgba(255,255,255,.14);
+  border-radius: 12px;
+  background: rgba(255,255,255,.03);
+}
+.fold summary{
+  cursor:pointer;
+  font-weight:700;
+}
+
+.table-wrap{
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.table-wrap table{
+  min-width: 600px;
+}
