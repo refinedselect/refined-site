@@ -220,10 +220,12 @@ footer {
   border-radius:10px;
 }
 
-.size-link {
+.size-link{
   text-align: right;
   margin: 4px 0 14px 0;
-  opacity: 0.85;
+  margin-top: 10px;
+  opacity: 0.9;
+  font-size: 0.9rem;
 }
 
 .size-link a {
@@ -245,5 +247,23 @@ footer {
   margin-bottom: 0.6rem;
   color: #5e8497;
 }
+.size-summary{
+  margin: 8px 0 16px;
+  opacity: 0.95;
+}
+
+.size-list{
+  margin: 0 0 18px;
+  padding-left: 1.2rem;
+}
+
+.size-list li{
+  margin-bottom: 0.8rem;
+}
+
+.size-tendency strong{
+  padding: 0 2px; /* 数字周りの視認性UP */
+}
+
 
 
