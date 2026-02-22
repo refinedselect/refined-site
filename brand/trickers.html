@@ -122,8 +122,11 @@
         <a href="https://www.amazon.co.jp/"
            target="_blank"
            rel="nofollow noopener"
-           onclick="gtag('event','amazon_click',{ 'event_category':'affiliate',
-           'event_label':'trickers' });">
+           onclick="gtag('event','amazon_click',{
+           'event_category':'affiliate',
+           'event_label':'trickers',
+           'page_path': location.pathname,
+           'link_url': this.href});">
           AmazonでTricker'sを検索
         </a>
       </p>
@@ -136,9 +139,6 @@
   </footer>
 </body>
 </html>
-
-
-
 
 
 

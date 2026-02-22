@@ -6,6 +6,10 @@
   </url>
 
   <url>
+    <loc>https://example.com/brand/size.html</loc>
+  </url>
+
+  <url>
     <loc>https://example.com/shoes.html</loc>
   </url>
 
@@ -33,4 +37,11 @@
     <loc>https://example.com/brand/john-lobb.html</loc>
   </url>
 
+  <url>
+    <loc>https://example.com/brand/jm-weston.html</loc>
+  </url>
+
+    <url>
+    <loc>https://example.com/brand/trickers.html</loc>
+  </url>
 </urlset>
