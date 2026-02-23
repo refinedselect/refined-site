@@ -1,47 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://refinedselect.com/</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/size.html</loc>
+    <loc>https://refinedselect.com/brand/size.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/shoes.html</loc>
+    <loc>https://refinedselect.com/shoes.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/uk-vs-us.html</loc>
+    <loc>https://refinedselect.com/uk-vs-us.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/alden.html</loc>
+    <loc>https://refinedselect.com/brand/alden.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/allen-edmonds.html</loc>
+    <loc>https://refinedselect.com/brand/allen-edmonds.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/crockett-jones.html</loc>
+    <loc>https://refinedselect.com/brand/crockett-jones.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/churchs.html</loc>
+    <loc>https://refinedselect.com/brand/churchs.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/john-lobb.html</loc>
+    <loc>https://refinedselect.com/brand/john-lobb.html</loc>
   </url>
 
   <url>
-    <loc>https://example.com/brand/jm-weston.html</loc>
+    <loc>https://refinedselect.com/brand/jm-weston.html</loc>
   </url>
 
     <url>
-    <loc>https://example.com/brand/trickers.html</loc>
+    <loc>https://refinedselect.com/brand/trickers.html</loc>
   </url>
 </urlset>
