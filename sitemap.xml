@@ -4,113 +4,153 @@
 
   <url>
     <loc>https://refinedselect.com/</loc>
+    <priority>1.0</priority>
   </url>
-  
+
+  <url>
+   <loc>https://refinedselect.com/index.html</loc>
+   <priority>1.0</priority>
+  </url>
+
   <url>
    <loc>https://refinedselect.com/about.html</loc>
+   <priority>0.3</priority>
   </url>
 
   <url>
    <loc>https://refinedselect.com/privacy.html</loc>
+   <priority>0.3</priority>
   </url>
 
   <url>
    <loc>https://refinedselect.com/comparison.html</loc>
+   <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/size.html</loc>
+    <priority>0.9</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/shoes.html</loc>
+    <priority>0.8</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/uk-vs-us.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://refinedselect.com/brand/en-index.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/alden.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/allen-edmonds.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/crockett-jones.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/churchs.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/john-lobb.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/jm-weston.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/trickers.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url> 
     <loc>https://refinedselect.com/brand/loake.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/edward-green.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://refinedselect.com/brand/grenson.html</loc>
+    <priority>0.7</priority>
   </url>
      
   <url>
     <loc>https://refinedselect.com/brand/cheaney.html</loc>
+    <priority>0.7</priority>
   </url>
 
   <url> 
-    <loc>https://refinedselect.com/brand/a-testoni.html</loc> 
+    <loc>https://refinedselect.com/brand/a-testoni.html</loc>
+     <priority>0.7</priority>
   </url>
 
   <url> 
    <loc>https://refinedselect.com/brand/santoni.html</loc> 
+   <priority>0.7</priority>
    </url>
+
   <url> 
   <loc>https://refinedselect.com/brand/paraboot.html</loc>
+  <priority>0.7</priority>
    </url>
    
    <url> 
    <loc>https://refinedselect.com/brand/berluti.html</loc> 
+   <priority>0.7</priority>
    </url>
    
    <url> 
    <loc>https://refinedselect.com/brand/cole-haan.html</loc> 
+   <priority>0.7</priority>
    </url>
 
    <url> 
    <loc>https://refinedselect.com/brand/gh-bass.html</loc> 
+   <priority>0.7</priority>
    </url>
 
    <url>
    <loc>https://refinedselect.com/brand/johnston-murphy.html</loc>
+   <priority>0.7</priority>
    </url>
 
    <url>
    <loc>https://refinedselect.com/brand/florsheim.html</loc>
+   <priority>0.7</priority>
    </url>
 
    <url>
    <loc>https://refinedselect.com/brand/salvatore-ferragamo.html</loc>
+   <priority>0.7</priority>
   </url>
 
   <url>
   <loc>https://refinedselect.com/brand/bruno-magli.html</loc>
+  <priority>0.7</priority>
   </url>
 
 
